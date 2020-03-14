@@ -1,0 +1,22 @@
+{
+  "name": "jest-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarong/jest-problem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarong/jest-problem/issues"
+  },
+  "homepage": "https://github.com/aarong/jest-problem#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
